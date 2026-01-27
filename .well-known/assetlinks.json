@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wallettest",
+    "sha256_cert_fingerprints": ["83:D2:0C:0B:55:99:CE:AA:84:B8:92:EE:E2:EE:30:89:6C:20:38:39:E9:88:0E:71:E7:AD:23:CA:1A:E5:EC:B8"]
+  }
+}]
